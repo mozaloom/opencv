@@ -1,0 +1,7 @@
+pytest
+pylint
+pytest-cov
+jupyter
+opencv-contrib-python
+matplotlib
+nbval
