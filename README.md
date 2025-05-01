@@ -38,6 +38,7 @@ This repository contains Jupyter notebooks demonstrating basic OpenCV operations
    ```bash
    git clone https://github.com/mozaloom/opencv.git
    ```
+   ```bash
    cd opencv
    ```
 
@@ -67,13 +68,6 @@ This repository contains Jupyter notebooks demonstrating basic OpenCV operations
   make lint        # run any configured linters (if applicable)
   ```
 
-## Notebooks Overview
-
-- **openCV-demo-1.ipynb**  
-  Introduction to basic image I/O, display, and color-space conversions.
-
-- **openCV-demo-2.ipynb**  
-  Template matching, edge detection, and simple filtering techniques.
 
 ## License
 
